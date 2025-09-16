@@ -6,9 +6,19 @@
 </p>
 
 <p align="center">
-  <a href="mailto:resume@raydeleon.dev">Email</a> •
-  <a href="https://www.linkedin.com/in/ray-deleon">LinkedIn</a>
+  <a href="mailto:contact@raydeleon.dev">
+  <img src="https://img.shields.io/badge/-resume@raydeleon.dev-c14438?logo=Gmail&logoColor=white" alt="Gmail Badge">
+</a> •
+  
+<a href="https://www.linkedin.com/in/ray-deleon">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a> •
+  
+<a href="https://instagram.com/raydeleondev">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
 </p>
+
 
 ---
 
