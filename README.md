@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a> •
   
-<a href="https://instagram.com/raydeleondev">
+<a href="https://instagram.com/raydeleon.dev">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 </p>
