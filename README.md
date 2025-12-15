@@ -2,7 +2,8 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Ray De Leon 👋</h1>
 <p align="center">
-  Bilingual Software Engineer • .NET | Node.js | React • AWS & SQL • Always learning, always building
+  Cloud Security Engineer | Full-Stack Developer | Data & Automation
+Bilingual (EN/ES) • AWS • .NET • Node.js • React • SQL • Security first mindset
 </p>
 
 <p align="center">
@@ -23,18 +24,30 @@
 ---
 
 ### 👨‍💻 About Me
-- Bilingual (EN/ES) IT professional with 10+ years across **software development, IT support, and data analysis**.  
-- I enjoy turning ideas into **scalable apps** and making decisions with **data**.  
-- Background in **banking, telecom, emergency services, and retail** (DR & US).  
-- Exploring **cloud (AWS/Azure)** and **AI-assisted development**.
+Bilingual IT professional with 8+ years of experience spanning software engineering, cloud, cybersecurity, data analytics, and IT support. I specialize in building secure, scalable, and data-driven solutions, with hands-on experience across AWS, DevSecOps, and incident-aware development.
+
+I’ve worked across banking, telecom, government, retail, and SaaS environments in both the U.S. and Dominican Republic, and I’m currently focused on cloud security engineering, threat detection, and automation.
+
+I’m known for:
+
+Translating complex technical problems into clear solutions
+
+Applying security-by-design and OWASP principles
+
+Continuous learning and practical experimentation
 
 ---
 
 ### 🔭 What I’m working on
-- Building serverless APIs with **AWS Lambda + API Gateway**  
-- Shipping features with **.NET / Node.js / React**  
-- Dashboards & insights with **SQL, Python, Power BI, Tableau**  
-- Studying **CompTIA A+** (toward cybersecurity & cloud engineering)
+🔐 Cloud-native & serverless architectures (AWS Lambda, API Gateway, DynamoDB, IAM)
+
+⚙️ Secure APIs & full-stack apps with .NET, Node.js, React
+
+📊 Data pipelines & dashboards (SQL, Python ETL, Power BI, Tableau)
+
+🛡️ Cybersecurity & cloud security training (CompTIA CySA+, Splunk, PenTest+, Linux)
+
+🤖 Exploring AI-assisted security analysis & anomaly detection
 
 ---
 
