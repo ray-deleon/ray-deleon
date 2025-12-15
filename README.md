@@ -3,7 +3,6 @@
 <h1 align="center">Hi, I'm Ray De Leon 👋</h1>
 <p align="center">
   Cloud Security Engineer | Full-Stack Developer | Data & Automation
-Bilingual (EN/ES) • AWS • .NET • Node.js • React • SQL • Security first mindset
 </p>
 
 <p align="center">
