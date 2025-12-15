@@ -51,43 +51,62 @@ Continuous learning and practical experimentation
 ---
 
 ### 🧰 Tech Toolbox
-**Languages / Frameworks**  
-`C#` • `.NET Core` • `JavaScript/TypeScript` • `Node.js` • `React` • `Express` • `HTML/CSS`  
+Languages & Frameworks
 
-**Cloud & DevOps**  
-`AWS` • `Azure` • `IIS` • `Docker (basic)` • `Kubernetes (basic)` • `Git` • `CI/CD` • `Agile (Scrum, Kanban)`
+C# • .NET Core • JavaScript / TypeScript • Node.js • React • Express • HTML • CSS
 
-**Data**  
-`SQL` • `PostgreSQL` • `MongoDB` • `DynamoDB` • `Power BI` • `Tableau` • `Excel` • `Python` • `R`
+Cloud, DevOps & Security
 
-**IT Support**  
-`Active Directory` • `VPN` • `RDP` • `Helpdesk/Ticketing` • `IT Asset Mgmt`
+AWS • Azure • IAM • VPC • API Gateway • CloudWatch • Docker (basic) • Kubernetes (basic)
+Git • GitHub Actions • CI/CD • DevSecOps • Zero Trust • Agile (Scrum / Kanban)
 
+Data & Analytics
+
+SQL (PostgreSQL, MySQL, SQL Server) • MongoDB • DynamoDB
+Python • R • Power BI • Tableau • ETL Pipelines
+
+Networking & IT Support
+
+IPv4/IPv6 • DNS • DHCP • VLANs • VPN (IPsec / SSL) • Firewalls • IDS/IPS
+Active Directory • RDP • Helpdesk • Asset Management
 ---
 
 ### 🚀 Selected Highlights
-- **Online trading tool @ Banreservas** — +40% client interaction; performance tuning (+15%) with SQL Server & Web API optimizations.  
-- **Cost-efficient cloud** — Deployed **AWS Lambda + API Gateway** microservices to cut infra overhead.  
-- **Full-stack apps** — APIs & mobile features with **Node.js / Express / React Native**.  
-- **Data to decisions** — ETL + dashboards with **Power BI/Tableau** to surface KPIs & trends.  
-- **Bilingual support** — EN/ES troubleshooting (AD, VPN, RDP) with SLA focus.
+Enterprise SaaS & Banking Platforms — Built and optimized APIs and microservices handling millions of daily operations; improved performance by 15–25%.
+
+Cloud Cost Optimization — Migrated workloads to AWS serverless, reducing infrastructure overhead while achieving 99.9% uptime.
+
+Data → Decisions — Designed ETL pipelines and dashboards that enabled leadership to track KPIs and improve profitability by 15–18%.
+
+Secure Development — Implemented OWASP-aligned secure coding, IAM-based authentication, and CI/CD automation.
+
+Bilingual Technical Support — Delivered EN/ES support across AD, VPN, networking, and SaaS systems with strong SLA performance.
 
 ---
 
 ### 🏅 Certifications
-- **AWS Certified Cloud Practitioner** (2024)  
-- **Cisco CCNA** (2008)  
-- **CompTIA A+** (in progress)
+AWS Certified Cloud Practitioner (2024)
+
+CompTIA CySA+ (in progress)
+
+CompTIA PenTest+ (planned)
+
+Splunk Core User (in progress)
+
+Cisco CCNA
 
 ---
 
 ### 📌 Projects (snapshots)
-- **Serverless Deal Tracker** — AWS Lambda, API Gateway, DynamoDB, IaC  
-- **KPI Dashboard** — SQL + Python ETL → Power BI, role-based views  
-- **.NET API Starter** — Clean architecture, EF Core, JWT auth, Docker-ready  
-- **React Native App** — Offline-first, REST/GraphQL integration
+Serverless Deal Tracker — AWS Lambda, API Gateway, DynamoDB, IaC
 
-> 👉 Pinned repos below for details & docs.
+KPI Analytics Platform — SQL + Python ETL → Power BI / Tableau
+
+.NET Secure API Starter — Clean architecture, EF Core, JWT, Docker-ready
+
+React Native App — Offline-first, REST/GraphQL integrations
+
+👉 Check out my pinned repositories for code, docs, and architecture notes.
 
 ---
 
