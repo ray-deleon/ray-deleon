@@ -69,6 +69,7 @@ Networking & IT Support
 
 IPv4/IPv6 • DNS • DHCP • VLANs • VPN (IPsec / SSL) • Firewalls • IDS/IPS
 Active Directory • RDP • Helpdesk • Asset Management
+
 ---
 
 ### 🚀 Selected Highlights
